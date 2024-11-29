@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slogulai
 - 👀 I’m interested in surfing, sailing, skating, anything in the outdoors!
-- 🌱 I’m currently learning RUST! Im creating a multithreaded web server!
+- 🌱 I’m currently learning about large language models!
 - 📫 How to reach me ... if you know me, then you can reach me
 - ⚡ Fun fact: boats are cool
 
